@@ -3,7 +3,7 @@
 
 ![image](SCMR.png)
 
-This was a project done for a graduate course in Embedded Systems at UC Davis. We developed a system for wireless power transfer via Strongly-Coupled Magnetic Resonance (SCMR). We also developed a [Matlab program](SCMR.m) to calculate the resonant frequency to within 10%. It's worth noting that this was not a standard class  project, and was both proposed and embarked upon by two students with very little background on the subject-matter. If you've never had the opportunity to view an SCMR system, I encourage you to build our small system and try it for yourself, as one word comes to mind when viewed in person.
+This was a project done for a graduate course in Embedded Systems at [UC Davis](http://www.ece.ucdavis.edu). We developed a system for wireless power transfer via Strongly-Coupled Magnetic Resonance (SCMR). We also developed a [Matlab program](SCMR.m) to calculate the resonant frequency to within 10%. It's worth noting that this was not a standard class  project, and was both proposed and embarked upon by two students with very little background on the subject-matter. If you've never had the opportunity to view an SCMR system, I encourage you to build our small system and try it for yourself, as one word comes to mind when viewed in person.
 
 The coil in the photo is being driven directly by a low-power function generator. With some additional time, an amplifier can be built to provide enough gain to power a small microprocessor wirelessly. See the [PDF](SCMR4EmbdSys.pdf) for additional info on the system. In addition to the materials mentioned, some electrical tape and aerosol adhesive are useful to maintain the coils' shape, as minute changes alter the capacitance and resulting resonant frequency.
 
