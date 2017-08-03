@@ -11,7 +11,7 @@ The coil in the photo is being driven directly by a low-power function generator
 We briefly review the methods behind mid-range wireless power transfer using Strongly Coupled Magnetic Resonance (SCMR) to power embedded systems applications. From these reviewed methods, we then develop a mathematical model for SCMR to calculate resonant frequencies and other electrical characteristics for a given coil in MATLAB. The results from the model are verified experimentally through the implementation of several design iterations. The MATLAB model is accurate to within 10% of the experimental values. We also discuss the optimal design for maximum wireless power transfer and the constraints associated. Previous work shows wireless power transfer over 2 meters at about 40% efficiency with 60cm diameter resonating coils. We present a significantly scaled down design (Design III) with wireless power transfer via SCMR over 10cm using 8.25cm diameter coils, roughly 7.5 times smaller. The smaller design makes an excellent choice for powering small scale embedded systems applications.
 
 ## Acknowledgements
-- Waqas Hasque: My project partner, for transforming what we learned into a form that fit the course material.
+- Waqas Haque: My project partner, for transforming what we learned into a form that fit the course material.
 - Michael Sitclaru: For independent thinking and ultimately leading us to our best solution.
 - [Soheil Ghiasi](http://www.ece.ucdavis.edu/~soheil/): For open-mindedness and allowing us the opportunity to try something different in his class.
 - [Raj Amirtharajah](http://www.ece.ucdavis.edu/~ramirtha/promotion/amirtharajah_record.html): For guidance and encouragement.
