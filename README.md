@@ -21,5 +21,5 @@ We briefly review the methods behind mid-range wireless power transfer using Str
 - [Raj Amirtharajah](http://www.ece.ucdavis.edu/~ramirtha/promotion/amirtharajah_record.html): For encouragement.
 
 ### License & Citation
-This repository is released under the BSD 2-Clause license.
-Please [cite](Citation.md) this work if it helps your research.
+This repository is released under the BSD 2-Clause license.  
+Please [cite](Citation.md) this work if it helps your project / research.
