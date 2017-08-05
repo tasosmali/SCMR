@@ -20,7 +20,7 @@ In addition to the materials mentioned, some aerosol adhesive are useful to main
 - Waqas Haque: Project partner, for transforming what we learned into a form that fit the course material.
 - Michael Sitclaru: For independent thinking and ultimately leading us to the best solution.
 - [Soheil Ghiasi](http://www.ece.ucdavis.edu/~soheil/): For allowing us the opportunity to try something different in his class.
-- [Leo Liu + DART group](https://faculty.engineering.ucdavis.edu/liu/): For allowing us to expermint with a high-frequency function generator.
+- [Leo Liu + DART group](https://faculty.engineering.ucdavis.edu/liu/): For allowing us to experiment with a high-frequency function generator.
 - [Raj Amirtharajah](http://www.ece.ucdavis.edu/~ramirtha/promotion/amirtharajah_record.html): For encouragement.
 
 ### License & Citation
