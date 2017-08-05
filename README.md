@@ -24,6 +24,9 @@ The smaller coil soldered to the LED has a diameter of 2 inches. The guage of wi
 
 2017 Testing photo upcoming ...
 
+### Tutorial Videos
+There are also 2 tutorial videos we made for our original presentation (the original photo was cropped from one of these videos). 
+If you try the experiment above and are unable to acheive a working solution, just email the author of this repository for a copy.
 
 ## Acknowledgements
 - Waqas Haque: Project partner, for transforming what we learned into a form that fit the course material.
