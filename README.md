@@ -18,7 +18,12 @@ In addition to the materials mentioned, some aerosol adhesive is useful to maint
 
 To measure the resonant frequency of a coil, attach the function generator to the ends of the single loop coil, and oscilloscope leads to the ends of the 7 turn coil. Slowly increase the frequency on the generator and observe the frequency that peaks on the oscilloscope. When performed correctly, the peaks of the waveform should be cutoff, as they will be beyond the scale that most standard testbench oscilloscopes can display. Again, note that the resonant frequency measured will differ from the true frequency, as this is a result of the added capacitance from the oscilloscope leads. 
 
-2017 Photo Update upcoming ...
+![image](SCMR_2017.png)
+
+The smaller coil soldered to the LED has a diameter of 2 inches. The guage of wire is finer - 22 AWG if memory serves correct. The smaller spool of 22 AWG was used during testing.
+
+2017 Testing photo upcoming ...
+
 
 ## Acknowledgements
 - Waqas Haque: Project partner, for transforming what we learned into a form that fit the course material.
