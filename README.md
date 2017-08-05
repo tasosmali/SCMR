@@ -20,8 +20,7 @@ To measure the resonant frequency of a coil, attach the function generator to th
 
 ![image](SCMR_2017.JPG)
 
-The smaller coil soldered to the LED has a diameter of 2 inches. The guage of wire is finer - 22 AWG if memory serves correct. The smaller spool of 22 AWG was used during testing.
-Also note that from the way the coils were wrapped, it is easy to distinguish the 7 turn coil ends from the single turn coil ends.
+The smaller coil soldered to the LED has a diameter of 2 inches and approximately 10 turns. The guage of wire is finer - 22 AWG if memory serves correct. The smaller spool of 22 AWG at the bottom was used during testing. Also note that from the way the coils were wrapped, it is easy to distinguish the 7 turn coil ends from the single turn coil ends.
 
 2017 Testing photo upcoming ...
 
