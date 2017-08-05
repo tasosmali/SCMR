@@ -14,7 +14,7 @@ The two SCMR coils in the photo atop consist of 7 turns of 17 AWG wire with a di
 
 In addition to the materials mentioned, some aerosol adhesive are useful to maintain the larger coils' shape, as minute changes alter the capacitances and resulting resonant frequencies. Sandpaper is also useful to remove the insulating coating from the wire ends. Also note the lead capacitances of the driver (alligator clips) affect the transmitting coil's resonant frequency - the receiving coil's design should be altered accordingly (offset with an equivalent capacitance) if necessary. The single-loop coil fastened with the receiving coil goes unused, but is still included to aid in matching the resonant frequencies. 
 
-To measure the resonant frequency of a coil, attach the function generator to the ends of the single loop coil, and oscilloscope leads to the ends of the 7 turn coil. Slowly increase the frequency on the generator and observe the frequency that peaks on the oscilloscope. When performed correctly, the peaks of waveform should be cutoff, as they will be beyond the scale that most standard testbench oscilloscopes can display.
+To measure the resonant frequency of a coil, attach the function generator to the ends of the single loop coil, and oscilloscope leads to the ends of the 7 turn coil. Slowly increase the frequency on the generator and observe the frequency that peaks on the oscilloscope. When performed correctly, the peaks of waveform should be cutoff, as they will be beyond the scale that most standard testbench oscilloscopes can display. Again, note that resonant frequnecy measured will differ from the true frequnecy - a result of the added capacitance from the oscilloscope leads. 
 
 2017 Photo Update upcoming ...
 
