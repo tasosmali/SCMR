@@ -11,15 +11,15 @@ We briefly review the methods behind mid-range wireless power transfer using Str
 
 Notes: Document redacts made on 08/04/2017. Writing needs additional refreshing...
 
-## [2017 Experimental Refresh](Refresh.md)
+### [2017 Experimental Refresh](Refresh.md)
 
-## Acknowledgements
+### Acknowledgements
 - Waqas Haque: Project partner, for transforming what we learned into a form that fit the course material.
 - Michael Sitclaru: For independent thinking and ultimately leading us to the best solution.
 - [Soheil Ghiasi](http://www.ece.ucdavis.edu/~soheil/): For allowing us the opportunity to try something different in his class.
 - [Leo Liu + DART group](https://faculty.engineering.ucdavis.edu/liu/): For allowing us to experiment with a high-frequency function generator.
 - [Raj Amirtharajah](http://www.ece.ucdavis.edu/~ramirtha/promotion/amirtharajah_record.html): For encouragement.
 
-### License & Citation
+#### License & Citation
 This repository is released under the [BSD 2-Clause license](LICENSE).  
 Please [cite](Citation.md) this work if it helps your project / research.
