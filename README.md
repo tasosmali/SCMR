@@ -15,7 +15,7 @@ Notes: Document redacts made on 08/04/2017. Writing needs additional refreshing.
 
 ![image](SCMR_2017.JPG)
 
-The two SCMR coils in the photo above consist of 7 turns of 17 AWG wire with a diameter of 3.25 inches, along with an additional single-loop coil of the same diameter, fastened together with electric tape. The transmitting coil in the very to photo is being driven via induction through the single loop coil, which is attached to a function generator. An amplifier can be designed to provide enough gain to wirelessly power a low-energy microprocessor (or charge a battery, etc). See the [PDF](SCMR4EmbdSys.pdf) for additional info on the system (Design III).  
+The two SCMR coils in the photo above consist of 7 turns of 17 AWG wire with a diameter of 3.25 inches, along with an additional single-loop coil of the same diameter, fastened together with electric tape. The transmitting coil in the very top photo is being driven via induction through the single loop coil, which is attached to a function generator. An amplifier can be designed to provide enough gain to wirelessly power a low-energy microprocessor (or charge a battery, etc). See the [PDF](SCMR4EmbdSys.pdf) for additional info on the system (Design III).  
 
 The smaller coil soldered to the LED has a diameter of 2 inches and approximately 10 turns. The guage of wire is finer - 22 AWG if memory serves correct. The smaller spool of 22 AWG at the bottom was used during testing. Also note that from the way the SCMR coils were wrapped, it is easy to distinguish the 7 turn coil ends from the single turn coil ends.  
 
